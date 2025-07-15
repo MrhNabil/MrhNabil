@@ -2,8 +2,13 @@
 
 <h1 align="center">Hi, I'm Nabil 🌙</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/26/b5/35/26b53545a943727c9f1c3d7ad8501786.gif" width="600" alt="Centered GIF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 ### A passionate self-learner, coder, and ML enthusiast from Bangladesh 🇧🇩
 
