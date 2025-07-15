@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/26/b5/35/26b53545a943727c9f1c3d7ad8501786.gif" width="600"/>
 </p> 
+
 ### A passionate self-learner, coder, and ML enthusiast from Bangladesh 🇧🇩
 
 - 🔭 I’m currently working on: Fake News Detection using RAG 📰
