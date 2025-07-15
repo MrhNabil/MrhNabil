@@ -20,11 +20,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrhNabil&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrhNabil&layout=compact&theme=radical)
 
 ---
 
 ### 📍 Visitors
-![Visitor Badge](https://komarev.com/ghpvc/?username=your-username&style=flat&label=Visitors)
+![Visitor Badge](https://komarev.com/ghpvc/?username=MrhNabil&style=flat&label=Visitors)
