@@ -12,7 +12,6 @@
 
 ### A passionate self-learner, coder, and ML enthusiast from Bangladesh 🇧🇩
 
-- 🔭 I’m currently working on: Fake News Detection using RAG 📰
 - 🌱 I’m currently learning: Deep Learning, Data Science, DSA, and Drone Programming 🤖
 - 🧠 Always curious about: CPUs, AGI, and Open Source
 - 💬 Ask me about: Python, Git, ML projects, or how to break into AI
