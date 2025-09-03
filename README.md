@@ -9,13 +9,12 @@
   </picture>
 </p>
 
-
 ### A passionate self-learner, coder, and ML enthusiast from Bangladesh 🇧🇩
 
-- 🌱 I’m currently learning: Deep Learning, Data Science, DSA, and Drone Programming 🤖
-- 🧠 Always curious about: CPUs, AGI, and Open Source
-- 💬 Ask me about: Python, Git, ML projects, or how to break into AI
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](rakibhossainnabil9@gmail.com)
+- 🌱 I’m currently learning: Deep Learning, Data Science, DSA, and Drone Programming 🤖  
+- 🧠 Always curious about: CPUs, AGI, and Open Source  
+- 💬 Ask me about: Python, Git, ML projects, or how to break into AI  
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:rakibhossainnabil9@gmail.com)  
 - ⚡ Fun fact: Sometimes, I dive into the abyss.
 
 ---
@@ -41,15 +40,16 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MrhNabil&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrhNabil&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrhNabil&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrhNabil&layout=compact&theme=radical)
 
 ---
 
 ### 📍 Visitors
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=MrhNabil&style=flat&label=Visitors)
