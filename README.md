@@ -1,104 +1,108 @@
-<!-- 
-  Less noise. More signal.
--->
+<!-- ────────────────────────────────
+     GitHub Profile README — MrhNabil
+     Theme: Dark / Minimal / Elite
+──────────────────────────────── -->
 
-<div align="center">
+<h1 align="center">Nabil</h1>
+<p align="center"><em>Engineering intelligence from first principles.</em></p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=&fontSize=0" width="100%"/>
-
-  # Nabil
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Self-taught.+Systems-curious.+Building+toward+intelligence." alt="Typing SVG" />
-  </a>
-
-  <br/>
-  <br/>
-  
-  <code>Bangladesh</code>
-
-</div>
-
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-<br/>
+## Profile
 
-I'm interested in understanding computation from first principles —  
-from transistors to transformers, from logic gates to learning algorithms.
+I am a self-directed technologist from Bangladesh focused on understanding how computation scales—from logic gates and CPUs to learning systems and intelligent agents.  
+My work is driven by curiosity about **how machines learn, how hardware constrains intelligence, and how software abstractions emerge from fundamentals**.
 
-**Not chasing trends. Chasing depth.**
-
-<br/>
+I value depth over noise, fundamentals over frameworks, and long-term understanding over short-term trends.
 
 ---
 
-### ▸ Now
+## Current Focus
 
-```yaml
-Learning    : Deep Learning, DSA, Computer Architecture
-Building    : Autonomous Drone Systems (ROS2, PX4)  
-Exploring   : CPUs, Memory Hierarchies, Low-level Systems
-Long-term   : The path toward general intelligence
-```
-
-<br/>
+- Deep Learning and classical Machine Learning
+- Data Science with an emphasis on modeling intuition
+- Data Structures & Algorithms as a thinking discipline
+- Low-level computing and computer architecture
+- Embedded systems, robotics, and drone programming
+- The intersection of hardware, software, and intelligence
 
 ---
 
-### ▸ Stack
+## Technical Stack
 
-<div align="center">
+### Languages
+- Python  
+- C  
+- C++
 
-  ![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB)
-  ![C](https://img.shields.io/badge/C-0d1117?style=flat&logo=c&logoColor=A8B9CC)
-  ![C++](https://img.shields.io/badge/C++-0d1117?style=flat&logo=cplusplus&logoColor=00599C)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=FF6F00)
-  ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=013243)
-  ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=150458)
-  ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat&logo=arduino&logoColor=00979D)
-  ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624)
-  ![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
+### Machine Learning & Data
+- TensorFlow  
+- Scikit-learn  
+- NumPy  
+- Pandas  
+- Jupyter
 
-</div>
+### Systems & Hardware
+- Linux  
+- Arduino  
+- Logisim  
+- Fundamental CPU and digital logic design concepts
 
-<br/>
-
----
-
-### ▸ Belief
-
-> Open source is a forcing function for clarity.  
-> If I can't build it, I haven't learned it.
-
-<br/>
-
----
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MrhNabil&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=888888&icon_color=58a6ff&ring_color=58a6ff" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrhNabil&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=888888&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="150" />
-
-</div>
-
-<br/>
+### Web & Tooling
+- JavaScript  
+- HTML / CSS  
+- Git & GitHub  
+- VS Code  
+- Firebase
 
 ---
 
-<div align="center">
+## Active Exploration
 
-  <a href="mailto:rakibhossainnabil9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/mrhnabil">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
+- Model behavior, generalization, and failure modes  
+- Compute efficiency and constraints in learning systems  
+- Bridging low-level systems knowledge with high-level ML abstractions  
+- Early-stage thinking around AGI and long-horizon AI alignment  
+- Open-source codebases as learning infrastructure
 
-</div>
+---
 
-<br/>
+## Learning & Open Source Philosophy
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer" width="100%"/>
+I treat open source as both a proving ground and a classroom.  
+Reading real-world code, tracing design decisions, and understanding trade-offs matter more to me than chasing credentials.
+
+Progress, for me, is measured in **clarity of thought**, not speed.
+
+---
+
+## GitHub Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrhNabil&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrhNabil&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## Presence
+
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Email: rakibhossainnabil9@gmail.com  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrhNabil&label=Profile%20Views&style=flat" />
+</p>
+
+<!-- End of README -->
