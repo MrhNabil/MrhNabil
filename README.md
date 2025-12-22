@@ -1,6 +1,6 @@
 <!-- 🌌 WELCOME TO THE VOID 🌌 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=NABIL&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Systems%20Architect%20%7C%20ML%20Engineer%20%7C%20Hardware%20Hacker&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=NABIL&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=Systems%20Architect%20%7C%20ML%20Engineer%20%7C%20Hardware%20Hacker&descAlignY=55&descSize=16&descAlign=50" width="100%"/>
 
 <!-- Animated intro -->
 <div align="center">
